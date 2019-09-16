@@ -1,4 +1,4 @@
-a: 1
+a: aaaa
 spring:
   application:
     name: product
