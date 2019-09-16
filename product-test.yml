@@ -1,4 +1,4 @@
-a: cc
+a: 1
 spring:
   application:
     name: product
