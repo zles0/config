@@ -11,4 +11,4 @@ mybatis:
   mapper-locations: classpath:mapper.xml
 env:
  p
-a: 2b
+a: bbb
