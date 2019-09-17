@@ -1,4 +1,4 @@
-a: bbbbbb
+a: succ
 spring:
   application:
     name: product
