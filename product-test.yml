@@ -1,4 +1,4 @@
-a: succ
+a: bad
 spring:
   application:
     name: product
